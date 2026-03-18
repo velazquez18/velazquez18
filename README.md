@@ -51,7 +51,7 @@ Para que esta sección se vea llamativa, usaremos escudos visuales para tu stack
 Estas tarjetas de estadísticas son las que hacen que el perfil se vea muy "pro".
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Estadísticas generales de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=velazquez18&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Estadísticas generales de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_GITHUB]&theme=vision-friendly-dark&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
