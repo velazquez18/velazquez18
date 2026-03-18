@@ -15,7 +15,7 @@
 <img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=velazquez18&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=7" />
 
 * 🚀 **Ingeniera Full Stack** con enfoque en diseño web, con 1 año de experiencia profesional.
-* 👥 **Líder de Equipo:** Actualmente dirijo y mentoreo a 3 programadores talentosos.
+* 👥 **Líder de Equipo:** Actualmente dirijo y mentoreo a un equipo de programadores talentosos.
 * 🤝 **Trato Directo con Clientes:** Experto en traducir visiones de negocio en soluciones técnicas.
 * 🎓 **22 años**, siempre aprendiendo y explorando nuevas tecnologías.
 * 🎮 **Gamer** apasionado en mi tiempo libre.
