@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/wX5j6Mh3w82z6/giphy.gif" alt="Coding GIF" width="40" height="40" style="vertical-align: middle;" />
-  <span style="font-size: 1.5em; font-weight: bold; vertical-align: middle;"> Hi, I'm Diana!</span>
+  <span style="font-size: 1.5em; font-weight: bold; vertical-align: middle;"> ¡Hola, soy Diana!</span>
   <img src="https://media.giphy.com/media/xT0xezQGU5xCDDMD5e/giphy.gif" alt="Waving hand GIF" width="40" height="40" style="vertical-align: middle;" />
 </p>
 
@@ -10,15 +10,15 @@
 
 ---
 
-## 👨‍💻 About Me:
+## 👨‍💻 Sobre mí:
 
 <img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=velazquez18&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=7" />
 
-* 🚀 **Full Stack Engineer** with a focus on web design and 1 year of professional experience.
-* 👥 **Team Lead:** Currently leading and mentoring 3 talented developers.
-* 🤝 **Client Relations:** Expert at translating business visions into technical solutions.
-* 🎓 **22 years old**, always learning and exploring new technologies.
-* 🎮 **Gamer** at heart in my free time.
+* 🚀 **Ingeniero Full Stack** con enfoque en diseño web, con 1 año de experiencia profesional.
+* 👥 **Líder de Equipo:** Actualmente dirijo y mentoreo a 3 programadores talentosos.
+* 🤝 **Trato Directo con Clientes:** Experto en traducir visiones de negocio en soluciones técnicas.
+* 🎓 **22 años**, siempre aprendiendo y explorando nuevas tecnologías.
+* 🎮 **Gamer** apasionado en mi tiempo libre.
 
 <br>
 
@@ -52,8 +52,10 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 Estadísticas de GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=velazquez18&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=velazquez18&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
 </p>
+
+<br>
