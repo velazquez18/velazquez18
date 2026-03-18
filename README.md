@@ -47,6 +47,7 @@
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/SmarterASP.net-005195?style=flat-square&logo=server&logoColor=white" alt="SmarterASP.net" />
 </p>
 
 ---
