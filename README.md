@@ -1,8 +1,6 @@
-# [banner-placeholder]
-
 <p align="center">
   <img src="https://media.giphy.com/media/wX5j6Mh3w82z6/giphy.gif" alt="Coding GIF" width="40" height="40" style="vertical-align: middle;" />
-  <span style="font-size: 1.5em; font-weight: bold; vertical-align: middle;"> ¡Hola, soy [Tu Nombre]!</span>
+  <span style="font-size: 1.5em; font-weight: bold; vertical-align: middle;"> ¡Hola, soy Diana!</span>
   <img src="https://media.giphy.com/media/xT0xezQGU5xCDDMD5e/giphy.gif" alt="Waving hand GIF" width="40" height="40" style="vertical-align: middle;" />
 </p>
 
@@ -14,7 +12,7 @@
 
 ## 👨‍💻 Sobre mí:
 
-<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=[TU_USUARIO_GITHUB]&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=7" />
+<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=velazquez18&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=7" />
 
 * 🚀 **Ingeniero Full Stack** con enfoque en diseño web, con 1 año de experiencia profesional.
 * 👥 **Líder de Equipo:** Actualmente dirijo y mentoreo a 3 programadores talentosos.
@@ -59,16 +57,3 @@ Estas tarjetas de estadísticas son las que hacen que el perfil se vea muy "pro"
 
 <br>
 
----
-
-## 🤝 Conecta conmigo:
-
-Usaremos botones de perfil estilo píldora para tus redes.
-
-<p align="center">
-  <a href="mailto:[TU_EMAIL]" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[TU_ENLACE_LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[TU_ENLACE_PORTAFOLIO]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-<br>
