@@ -1,34 +1,74 @@
-# Hi there, I'm Diana 👋
+# [banner-placeholder]
 
-### Software Engineer & Tech Lead 🚀
+<p align="center">
+  <img src="https://media.giphy.com/media/wX5j6Mh3w82z6/giphy.gif" alt="Coding GIF" width="40" height="40" style="vertical-align: middle;" />
+  <span style="font-size: 1.5em; font-weight: bold; vertical-align: middle;"> ¡Hola, soy [Tu Nombre]!</span>
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDDMD5e/giphy.gif" alt="Waving hand GIF" width="40" height="40" style="vertical-align: middle;" />
+</p>
 
-I'm a passionate **Full Stack Developer** with a year of professional experience, focused on creating seamless web designs and robust digital products. Currently, I lead a team of 3 developers, coordinating workflows and ensuring high-quality delivery.
-
-I enjoy the entire process of web design—from the first sketch to the final deployment. My background as an engineer allows me to bridge the gap between complex technical requirements and client expectations with clear communication and effective solutions.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-* **Frontend:** React, JavaScript (ES6+), CSS3, Tailwind CSS.
-* **Backend:** Node.js, Express.
-* **Databases:** SQL Server, Supabase, MongoDB.
-* **Management:** Team Leadership (3 developers), Client Relations, Project Scoping.
+<p align="center">
+  <b>[Software Engineer & Tech Lead]</b>
+</p>
 
 ---
 
-### 📈 Professional Highlights
+## 👨‍💻 Sobre mí:
 
-* **1 Year** of professional experience in the tech industry.
-* **Team Management:** Leading and mentoring a small development squad.
-* **Client-Centric:** Skilled at translating business needs into technical roadmaps.
-* **Design-Driven:** I don't just code; I care about how things look and feel.
+<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=[TU_USUARIO_GITHUB]&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=7" />
+
+* 🚀 **Ingeniero Full Stack** con enfoque en diseño web, con 1 año de experiencia profesional.
+* 👥 **Líder de Equipo:** Actualmente dirijo y mentoreo a 3 programadores talentosos.
+* 🤝 **Trato Directo con Clientes:** Experto en traducir visiones de negocio en soluciones técnicas.
+* 🎓 **22 años**, siempre aprendiendo y explorando nuevas tecnologías.
+* 🎮 **Gamer** apasionado en mi tiempo libre.
+
+<br>
+
+## 🛠️ Tech Stack:
+
+Para que esta sección se vea llamativa, usaremos escudos visuales para tu stack, organizados por categoría.
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
 ---
 
-### 🎮 Beyond the Code
+## 📈 Estadísticas de GitHub:
 
-When I'm not managing projects or debugging code, you can find me:
-* 🕹️ Playing video games (it's my favorite way to unwind).
-* 🎨 Exploring new web design trends.
-* 🚀 Thinking about the next big project.
+Estas tarjetas de estadísticas son las que hacen que el perfil se vea muy "pro".
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Estadísticas generales de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_GITHUB]&theme=vision-friendly-dark&hide_border=true" alt="Racha de contribuciones" />
+</p>
+
+<br>
+
+---
+
+## 🤝 Conecta conmigo:
+
+Usaremos botones de perfil estilo píldora para tus redes.
+
+<p align="center">
+  <a href="mailto:[TU_EMAIL]" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[TU_ENLACE_LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[TU_ENLACE_PORTAFOLIO]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<br>
