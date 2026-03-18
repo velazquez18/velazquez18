@@ -1,6 +1,5 @@
-<h1>HOLA SOY DIANA</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Diana Velázquez" />
+</h1>
 
-💻Estudio en <a href="www.utsjr.edu.mx">UTSJR</a> Gestion de Software<br>
-🎮Me gustan los videojuegos
-
-
+## Hola! 👋
