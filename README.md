@@ -16,9 +16,9 @@
 
 * 🚀 **Ingeniera Full Stack** con enfoque en diseño web, con 1 año de experiencia profesional.
 * 👥 **Líder de Equipo:** Actualmente dirijo y mentoreo a un equipo de programadores talentosos.
-* 🤝 **Trato Directo con Clientes:** Experto en traducir visiones de negocio en soluciones técnicas.
+* 🤝 **Trato Directo con Clientes:** Experta en traducir visiones de negocio en soluciones técnicas.
 * 🎓 **22 años**, siempre aprendiendo y explorando nuevas tecnologías.
-* 🎮 **Gamer** apasionado en mi tiempo libre.
+* 🎮 **Gamer** apasionada en mi tiempo libre.
 
 <br>
 
